@@ -32,11 +32,11 @@ pip
 # Steps to Run
 Clone the Repository:
 
-	git clone [https://github.com/your_username/sentiment-analysis-docker-flask.git](https://github.com/zubedafatima/MLOps_task-4.git)
+	git clone https://github.com/zubedafatima/MLOps_task-4.git
  
 Navigate to the Project Directory:
 
-	cd sentiment-analysis-docker-flask
+	cd MLops_task-4
 
 Construct Docker Image:
 
